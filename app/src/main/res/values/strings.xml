@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MiPrimeraApp</string>
+    <string name="app_name" translatable="false">MiPrimeraApp</string>
+    <string name="imagen_descripcion_txt">Cohete image</string>
+    <string name="Mensaje2_txt">Welcome everyone!</string>
 </resources>
